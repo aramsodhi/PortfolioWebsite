@@ -81,11 +81,11 @@
 
 .header, .desc {
 	background: transparent;
+	margin: 30px;
 }
 
 .desc {
 	max-width: 50%;
-	margin-top: 40px;
 }
 
 #canvas {
